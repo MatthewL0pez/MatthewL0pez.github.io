@@ -13,7 +13,7 @@ lab 7 is https://github.com/cpsc-fall-2023/cpsc-120-lab-07-matthew-and-maritza.
 
 * Lab 8
 
-    Lab 8, part 1 Command line mad lib was one of my favorite assignments we did due to being able to use line commands to create a sandwich of different flavors and such. It was the assignment that helped me the most with understanding the structure and usage of command line arguments and how we can implement them into different scenarios which was the main goal of this assignment. With this, I could do better in the upcoming labs after knowing this command line argumentation information implantations and purposes. 
+    Lab 8, part 1 Command line mad lib was one of my favorite assignments we did due to being able to use line commands to create a sandwich of different flavors and such. It was the assignment that helped me the most with understanding the structure and usage of command line arguments and how we can implement them into different scenarios which was the main goal of this assignment. With this, I could do better in the upcoming labs after knowing this command line argumentation information implantations and purposes.    
 
 * Lab 3
     
@@ -21,7 +21,7 @@ lab 7 is https://github.com/cpsc-fall-2023/cpsc-120-lab-07-matthew-and-maritza.
 
 * Lab 7 
 
-    Lab 7 part 2 Parking Rules was my last pick for my favorite assignments as it focused on if and while loop patterns. Being able to use if statements and while loops to determine allowed parking times was fun and interesting in itself. From this lab, I was able to pick up and utilize the key ideas and purposes for loop patterns and types for the many upcoming labs. 
+    Lab 7 part 2 Parking Rules was my last pick for my favorite assignments as it focused on if and while loop patterns. Being able to use if statements and while loops to determine allowed parking times was fun and interesting in itself. From this lab, I was able to pick up and utilize the key ideas and purposes for loop patterns and types for the many upcoming labs.
 
 
 
