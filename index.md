@@ -21,7 +21,7 @@ My GitHub page is [http://github.com/MatthewL0pez](http://github.com/MatthewL0pe
 
 * Lab 7 
 
-    Lab 7 part 2 Parking Rules was my last pick for my favorite assignments as it focused on if and while loop patterns. Being able to use if statements and while loops to determine allowed parking times was fun and interesting in itself. From this lab, I was able to pick up and utilize the key ideas and purposes for loop patterns and types for the many upcoming labs.
+    Lab 7 part 2 Parking Rules was my last pick for my favorite assignments as it focused on if and while loop patterns. Being able to use if statements and while loops to determine allowed parking times was fun and interesting in itself adn was a concept that was cool to be able to code out as it could have a practical usage in the real world as an applied concept. From this lab, I was able to pick up and utilize the key ideas and purposes for loop patterns and types for the many upcoming labs. 
 
 
 
