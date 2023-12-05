@@ -4,10 +4,10 @@ This is my home page! My name is Matthew Lopez and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/MatthewL0pez.
-* Lab 8 is https://github.com/cpsc-fall-2023/cpsc-120-lab-08-matthew-maritza.
-* Lab 3 is https://github.com/cpsc-fall-2023/cpsc-120-lab-03-matthew-and-braedon. 
-* Lab 7 is https://github.com/cpsc-fall-2023/cpsc-120-lab-07-matthew-and-maritza.
+My GitHub page is [http://github.com/MatthewL0pez](http://github.com/MatthewL0pez)
+* [Lab 8](https://github.com/cpsc-fall-2023/cpsc-120-lab-08-matthew-maritza) 
+* [Lab 3](https://github.com/cpsc-fall-2023/cpsc-120-lab-03-matthew-and-braedon) 
+* [Lab 7](https://github.com/cpsc-fall-2023/cpsc-120-lab-07-matthew-and-maritza)
 
 ### CPSC 120
 
