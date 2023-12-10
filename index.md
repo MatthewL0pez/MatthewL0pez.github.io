@@ -17,7 +17,7 @@ My GitHub page is [http://github.com/MatthewL0pez](http://github.com/MatthewL0pe
 
 * Lab 3
     
-    Lab 3 part 2 Date Difference was another one of my favorite lab assignments because it helped me understand unit testing, data types, and using the testing error flowchart when we were working on it. These helped me progress in future labs by understanding the pattern and process of code errors and how to fix them. As well as understanding a better idea of the different data types like int and video with their purposes and uses. 
+    Lab 3 part 2 Date Difference was another one of my favorite lab assignments because it helped me understand unit testing, data types, and using the testing error flowchart when we were working on it. These helped me progress in future labs by understanding the pattern and process of code errors and how to fix them. As well as understanding a better idea of the different data types like int and void with their purposes and uses. 
 
 * Lab 7 
 
